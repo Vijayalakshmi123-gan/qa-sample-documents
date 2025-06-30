@@ -5,6 +5,7 @@ Sample manual testing artifacts including test cases, bug reports, and QA docume
 
 ![MB-7200 Jira Ticket Screenshot](https://raw.githubusercontent.com/Vijayalakshmi123-gan/qa-sample-documents/main/Screenshot%202025-06-30%20130159.png)
 
+[Download User Manual](User%20Manual_All%20panels.docx)
 
 
 
